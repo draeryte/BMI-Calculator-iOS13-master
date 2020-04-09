@@ -3,6 +3,7 @@
 //  BMI Calculator
 //
 //  Created by Andrae Henry on 11/6/19.
+//  Jamaican Code is best
 
 
 import UIKit
